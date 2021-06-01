@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-brand { width: 15%; }
+
+.navbar-brand img { }
+
+.navbar-light .navbar-nav .nav-link { color: rgb(0, 0, 0); font-size: 16px; font-weight: 400; font-family: Poppins, sans-serif; text-transform: capitalize; }
+
+.btn-singin { background-color: rgb(33, 181, 115); padding: 12px 28px; color: rgb(255, 255, 255); text-transform: capitalize; border-radius: 28px; }
+
+.btn-singin:hover { color: rgb(255, 255, 255); background-color: rgb(8, 128, 74); }
+
+.navbar-nav { align-items: center; }
+
+header { background-color: rgb(240, 255, 240); }
+
+.banner-contant h1 { color: rgb(0, 0, 0); font-size: 48px; line-height: 70px; font-weight: 700; font-family: Poppins, sans-serif; }
+
+.banner-contant h1 span { color: rgb(33, 181, 115); }
+
+.banner-contant h5 { font-size: 16px; color: rgb(253, 81, 26); line-height: 24px; font-weight: 400; font-family: Poppins, sans-serif; }
+
+.banner-contant p { color: rgb(0, 0, 0); font-size: 16px; line-height: 36px; font-family: Poppins, sans-serif; }
+
+
+.btn-start { background: rgb(33, 181, 115); padding: 12px 36px; border-radius: 30px; color: white; 
+    text-transform: capitalize; font-size: 16px; line-height: 19px; font-family: Roboto, sans-serif; }
+
+.spacing { padding: 100px 0px; }
+
+.btn-start:hover { color: rgb(255, 255, 255); background-color: rgb(8, 128, 74); }
+
+
+.feature_one {background: rgb(243 247 244);text-align: center;padding: 50px 0;}
+
+.feature_one:hover{
+
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.feature_one img {
+    width: 30%;
+    margin-bottom: 15px;
+}
+
+.feature_one h2 {
+     color: rgb(65, 57, 96); 
+     font-size: 24px; 
+     line-height: 36px; 
+     font-weight: 500; 
+    }
+
+
+.feature_one p {
+     color: rgb(88, 88, 89); 
+     font-size: 16px; 
+     line-height: 24px; 
+    }
+
+.feature-scetion 
+{ margin-top: 30px; margin-bottom: 70px; }
+
+.course{
+
+}
+.course img{
+}
+.course h2{
+
+color: #413960;
+
+font-size: 24px;
+
+line-height: 36px;
+
+margin-top: 30px;
+}
+.course p{
+
+}
+.btn-course{
+
+color: #FFFFFF;
+
+background: red;
+
+font-size: 16px;
+
+line-height: 19px;
+
+padding: 0;
+
+padding: 6px 12px;
+
+border-radius: 50px;
+
+margin: 20px 0;
+}
+.course ul{
+
+list-style: none;
+
+margin: 0;
+
+padding: 0;
+
+display: flex;
+}
+.course img{
+}
+.course ul i{
+    
+}
+.User-icon{
+    margin-left: 500px;
+    
+}
